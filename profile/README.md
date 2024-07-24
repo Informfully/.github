@@ -20,7 +20,7 @@ Informfully is an open-source reproducibility platform for content distribution 
 
 
 ## Contributing
-Your are welcome to contribute to the Informfully ecosystem and become a part of your community. Feel free to:
+Your are welcome to contribute to the Informfully ecosystem and become a part of our community. Feel free to:
   - fork any of the [Informfully repositories](https://github.com/Informfully/Documentation) and
   - make changes and create pull requests.
 
