@@ -17,6 +17,7 @@ Informfully is an open-source reproducibility platform for content distribution 
 
 ## Informfully Research Papers
 
+* [Informfully – Research Platform for Reproducible User Studies](https://recsys.acm.org/recsys24/accepted-contributions/#content-tab-1-1-tab)
 * [Exploring the Effects of Topic Personalisation on Engagement and Perceptions of News Recommendations](https://osf.io/7jzm5)
 * [Deliberative Diversity for News Recommendations: Operationalization and Experimental User Study](https://dl.acm.org/doi/abs/10.1145/3604915.3608834)
 * [Benefits of Diverse News Recommendations for Democracy: A User Study](https://www.tandfonline.com/doi/full/10.1080/21670811.2021.2021804)
