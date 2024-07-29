@@ -8,19 +8,22 @@ Informfully is an open-source reproducibility platform for content distribution 
 **Links and Resources:** [Website](https://informfully.ch/) | [Documentation](https://informfully.readthedocs.io/) | [GitHub](https://github.com/orgs/Informfully/repositories) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
 
-## Informfully Code Repositories
+## Informfully Code Repositories Overview
 
 * [Platform Repository](https://github.com/Informfully/Platform)
-* [Scraper repository](https://github.com/Informfully/Scrapers)
-* [Dataset repository](https://github.com/Informfully/Datasets)
-* [Documentation repository](https://github.com/Informfully/Documentation)
+* [Scrapers Repository](https://github.com/Informfully/Scrapers)
+* [Datasets Repository](https://github.com/Informfully/Datasets)
+* [Documentation Repository](https://github.com/Informfully/Documentation)
 
-## Informfully Research Papers
+## Research Projects with Informfully
 
 * [Informfully – Research Platform for Reproducible User Studies](https://recsys.acm.org/recsys24/accepted-contributions/#content-tab-1-1-tab)
 * [Exploring the Effects of Topic Personalisation on Engagement and Perceptions of News Recommendations](https://osf.io/7jzm5)
 * [Deliberative Diversity for News Recommendations: Operationalization and Experimental User Study](https://dl.acm.org/doi/abs/10.1145/3604915.3608834)
 * [Benefits of Diverse News Recommendations for Democracy: A User Study](https://www.tandfonline.com/doi/full/10.1080/21670811.2021.2021804)
+
+## Position and Policy Papers
+
 * [Spotlight on Artificial Intelligence and Freedom of Expression: A Policy Manual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060166)
 * [Diversity in News Recommendation](https://drops.dagstuhl.de/entities/document/10.4230/DagMan.9.1.43)
 
