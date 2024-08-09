@@ -12,6 +12,7 @@ Informfully is an open-source reproducibility platform for content distribution 
 * [Platform Repository](https://github.com/Informfully/Platform)
 * [Scrapers Repository](https://github.com/Informfully/Scrapers)
 * [Datasets Repository](https://github.com/Informfully/Datasets)
+* [Recommenders Repository](https://github.com/Informfully/Recommenders)
 * [Documentation Repository](https://github.com/Informfully/Documentation)
 
 ## News Recommender Research
