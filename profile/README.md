@@ -26,7 +26,8 @@ It features three core components:
 
 ## News Recommender Research
 
-* [Informfully – Research Platform for Reproducible User Studies](https://recsys.acm.org/recsys24/accepted-contributions/#content-tab-1-2-tab)
+* [Informfully – Research Platform for Reproducible User Studies (TBA)](https://informfully.ch/)
+* [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge (TBA)](https://informfully.ch/)
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
 * [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
 * [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
