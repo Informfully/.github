@@ -13,8 +13,7 @@ It features three core components:
 * a back end for researchers to create and maintain user experiments, and 
 * a simple JSON-based exchange format for ranked item recommendations to interface with third-party services.
 
-
-**Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
+**Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
 ## Code Repository Overview
 
