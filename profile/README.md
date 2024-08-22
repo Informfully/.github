@@ -15,15 +15,25 @@ It features three core components:
 
 **Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
+## Informfully Preview
+
+![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/assets/informfully_app_screens.png)
+
+Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance by deploying the  [Platform Repository](https://github.com/Informfully/Platform).
+
 ## Code Repository Overview
 
-* [Platform Repository](https://github.com/Informfully/Platform)
-* [Scrapers Repository](https://github.com/Informfully/Scrapers)
-* [Datasets Repository](https://github.com/Informfully/Datasets)
-* [Recommenders Repository](https://github.com/Informfully/Recommenders)
-* [Documentation Repository](https://github.com/Informfully/Documentation)
+Explore everything Informfully has to offer:
+
+* [Platform Repository](https://github.com/Informfully/Platform): Get full access to the Informfully platform (app and web).
+* [Scrapers Repository](https://github.com/Informfully/Scrapers): User our content scrapers to get your hands on news articles.
+* [Datasets Repository](https://github.com/Informfully/Datasets): See a sample export of all the information Informfully gives you.
+* [Recommenders Repository](https://github.com/Informfully/Recommenders): Showcasing all our diversity-optimized recommender algorithms.
+* [Documentation Repository](https://github.com/Informfully/Documentation): Overview and guides for deploying your own instance of Informfully.
 
 ## News Recommender Research
+
+Have a look at the research inspired and powered by Informfully:
 
 * [Informfully – Research Platform for Reproducible User Studies](https://www.researchgate.net/publication/383261885_Informfully_-_Research_Platform_for_Reproducible_User_Studies)
 * [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://www.researchgate.net/publication/383261868_Recommendations_for_the_Recommenders_Reflections_on_Prioritizing_Diversity_in_the_RecSys_Challenge)
