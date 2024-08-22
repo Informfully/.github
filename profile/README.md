@@ -17,7 +17,7 @@ It features three core components:
 
 ## Informfully Preview
 
-![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/img/informfully_assets/informfully_app_screens.png)
+![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/informfully_assets/informfully_app_screens.png)
 
 Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance by deploying the  [Platform Repository](https://github.com/Informfully/Platform).
 
