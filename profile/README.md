@@ -15,6 +15,10 @@ It features three core components:
 
 **Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
+> Note: Our GitHub repositories allow you to run your own instance of Informfully.
+If you want to use the Informfully a cloud service, hosted at the University of Zurich, please reach out to us.
+Free demo accounts available upon reqeust: info@informfully.ch
+
 ## Informfully Preview
 
 ![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/informfully_assets/informfully_app_screens.png)
