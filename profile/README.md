@@ -39,7 +39,7 @@ Explore everything Informfully has to offer:
 
 Have a look at the research inspired and powered by Informfully:
 
-* [Informfully – Research Platform for Reproducible User Studies](https://www.researchgate.net/publication/383261885_Informfully_-_Research_Platform_for_Reproducible_User_Studies)
+* [Informfully – Research Platform for Reproducible User Studies](https://dl.acm.org/doi/10.1145/3640457.3688066)
 * [IDEA – Informfully Dataset with Enhanced Attributes](https://www.researchgate.net/publication/384631002_IDEA_-_Informfully_Dataset_with_Enhanced_Attributes)
 * [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://www.researchgate.net/publication/383261868_Recommendations_for_the_Recommenders_Reflections_on_Prioritizing_Diversity_in_the_RecSys_Challenge)
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
