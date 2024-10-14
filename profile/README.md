@@ -13,6 +13,13 @@ It features three core components:
 * a back end for researchers to create and maintain user experiments, and 
 * a simple JSON-based exchange format for ranked item recommendations to interface with third-party services.
 
+The benefit of Informfully compared to other frameworks is that it includes all components necessary along the entire recommender pipeline.
+It offers [datasets](https://github.com/Informfully/Datasets) for training and development purposes.
+[Scrapers](https://github.com/Informfully/Scrapers) to collect items.
+[Recommenders](https://github.com/Informfully/Recommenders) for content curations.
+And the [Informfully](https://github.com/Informfully/Platform) platform for conducting user experiments.
+All components are designed to seamlessly work together.
+
 **Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
