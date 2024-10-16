@@ -17,7 +17,7 @@ The benefit of Informfully compared to other frameworks is that it includes all 
 It offers [datasets](https://github.com/Informfully/Datasets) for training and development purposes.
 [Scrapers](https://github.com/Informfully/Scrapers) to collect items.
 [Recommenders](https://github.com/Informfully/Recommenders) for content curations.
-And the [Informfully](https://github.com/Informfully/Platform) platform for conducting user experiments.
+And the [Informfully platform](https://github.com/Informfully/Platform) for conducting user experiments.
 All components are designed to seamlessly work together.
 
 **Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
