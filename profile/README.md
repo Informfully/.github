@@ -15,24 +15,20 @@ It features three core components:
 * a back end for researchers to create and maintain user experiments, and 
 * a simple JSON-based exchange format for ranked item recommendations to interface with third-party services.
 
+**Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
+
+
+## Informfully Research Suite
+
 The benefit of Informfully compared to other frameworks is that it includes all components necessary along the entire recommender pipeline.
 It offers [datasets](https://github.com/Informfully/Datasets) for training and development purposes.
 [Scrapers](https://github.com/Informfully/Scrapers) to collect items.
 [Recommenders](https://github.com/Informfully/Recommenders) for content curations.
 And the [Informfully platform](https://github.com/Informfully/Platform) for conducting user experiments.
 All components are designed to seamlessly work together.
-
-**Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
-
-> Note: Our GitHub repositories allow you to run your own instance of Informfully.
-If you want to use the Informfully a cloud service, hosted at the University of Zurich, please reach out to us.
-Free demo accounts available upon reqeust: info@informfully.ch
-
-## Informfully Preview
+Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance by deploying the  [Platform Repository](https://github.com/Informfully/Platform).
 
 ![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/informfully_assets/informfully_app_screens.png)
-
-Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance by deploying the  [Platform Repository](https://github.com/Informfully/Platform).
 
 ## Code Repository Overview
 
@@ -43,6 +39,11 @@ Explore everything Informfully has to offer:
 * [Datasets Repository](https://github.com/Informfully/Datasets): See a sample export of all the information Informfully gives you.
 * [Recommenders Repository](https://github.com/Informfully/Recommenders): Showcasing all our diversity-optimized recommender algorithms.
 * [Documentation Repository](https://github.com/Informfully/Documentation): Overview and guides for deploying your own instance of Informfully.
+
+> Note: Our GitHub repositories allow you to run your own instance of Informfully.
+If you want to use the Informfully a cloud service, hosted at the University of Zurich, please reach out to us.
+Free demo accounts available upon reqeust: info@informfully.ch
+
 
 ## News Recommender Research
 
@@ -62,7 +63,8 @@ Have a look at the research inspired and powered by Informfully:
 ## Contributing
 
 Your are welcome to contribute to the Informfully ecosystem and become a part of our community. Feel free to:
-  - fork any of the [Informfully repositories](https://github.com/Informfully/Documentation) and
+  - fork any of the [Informfully repositories](https://github.com/Informfully/Documentation),
+  - suggest new features in [Future Release](https://github.com/orgs/Informfully/projects/1), and
   - make changes and create pull requests.
 
 Please post your feature requests and bug reports in our [GitHub issues](https://github.com/Informfully/Documentation/issues) section.
