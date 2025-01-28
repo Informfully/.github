@@ -40,7 +40,7 @@ Explore everything Informfully has to offer:
 * [Documentation Repository](https://github.com/Informfully/Documentation): Overview and guides for deploying your own instance of Informfully.
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
-If you want to use the Informfully a cloud service, hosted at the University of Zurich, please reach out to us.
+If you want to use the Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
 Free demo accounts available upon reqeust: info@informfully.ch
 
 ## News Recommender Research
