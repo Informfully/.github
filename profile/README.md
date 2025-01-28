@@ -17,7 +17,6 @@ It features three core components:
 
 **Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
-
 ## Informfully Research Suite
 
 The benefit of Informfully compared to other frameworks is that it includes all components necessary along the entire recommender pipeline.
@@ -44,14 +43,13 @@ Explore everything Informfully has to offer:
 If you want to use the Informfully a cloud service, hosted at the University of Zurich, please reach out to us.
 Free demo accounts available upon reqeust: info@informfully.ch
 
-
 ## News Recommender Research
 
 Have a look at the research inspired and powered by Informfully:
 
 * [Informfully – Research Platform for Reproducible User Studies](https://dl.acm.org/doi/10.1145/3640457.3688066)
-* [IDEA – Informfully Dataset with Enhanced Attributes](https://www.researchgate.net/publication/384631002_IDEA_-_Informfully_Dataset_with_Enhanced_Attributes)
-* [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://www.researchgate.net/publication/383261868_Recommendations_for_the_Recommenders_Reflections_on_Prioritizing_Diversity_in_the_RecSys_Challenge)
+* [IDEA – Informfully Dataset with Enhanced Attributes](https://ceur-ws.org/Vol-3898/paper1.pdf)
+* [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://dl.acm.org/doi/abs/10.1145/3687151.3687155)
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
 * [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
 * [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
