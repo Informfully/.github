@@ -33,11 +33,12 @@ Find out more in the [Online Documentation](https://informfully.readthedocs.io/e
 
 Explore everything Informfully has to offer:
 
-* [Platform Repository](https://github.com/Informfully/Platform): Get full access to the Informfully platform (app and web).
-* [Scrapers Repository](https://github.com/Informfully/Scrapers): User our content scrapers to get your hands on news articles.
-* [Datasets Repository](https://github.com/Informfully/Datasets): See a sample export of all the information Informfully gives you.
-* [Recommenders Repository](https://github.com/Informfully/Recommenders): Showcasing all our diversity-optimized recommender algorithms.
-* [Documentation Repository](https://github.com/Informfully/Documentation): Overview and guides for deploying your own instance of Informfully.
+* **[Platform Repository](https://github.com/Informfully/Platform)**: Get full access to the Informfully platform (app and web).
+* **[Scrapers Repository](https://github.com/Informfully/Scrapers)**: User our content scrapers to get your hands on news articles.
+* **[Datasets Repository](https://github.com/Informfully/Datasets)**: See a sample export of all the information Informfully gives you.
+* **[Experiments Repository](https://github.com/Informfully/Datasets)**: Shared recommendation workflows to reproduce all our findings. 
+* **[Recommenders Repository](https://github.com/Informfully/Recommenders)**: Showcasing all our diversity-optimized recommender algorithms.
+* **[Documentation Repository](https://github.com/Informfully/Documentation)**: Overview and guides for deploying your own instance of Informfully.
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
 If you want to use the Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
@@ -66,3 +67,5 @@ Your are welcome to contribute to the Informfully ecosystem and become a part of
   - make changes and create pull requests.
 
 Please post your feature requests and bug reports in our [GitHub issues](https://github.com/Informfully/Documentation/issues) section.
+
+![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/app_screens.png)
