@@ -36,7 +36,7 @@ Explore everything Informfully has to offer:
 * **[Platform Repository](https://github.com/Informfully/Platform)**: Get full access to the Informfully platform (app and web).
 * **[Scrapers Repository](https://github.com/Informfully/Scrapers)**: User our content scrapers to get your hands on news articles.
 * **[Datasets Repository](https://github.com/Informfully/Datasets)**: See a sample export of all the information Informfully gives you.
-* **[Experiments Repository](https://github.com/Informfully/Datasets)**: Shared recommendation workflows to reproduce all our findings. 
+* **[Experiments Repository](https://github.com/Informfully/Experiments)**: Shared recommendation workflows to reproduce all our findings. 
 * **[Recommenders Repository](https://github.com/Informfully/Recommenders)**: Showcasing all our diversity-optimized recommender algorithms.
 * **[Documentation Repository](https://github.com/Informfully/Documentation)**: Overview and guides for deploying your own instance of Informfully.
 
