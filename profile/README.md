@@ -2,8 +2,8 @@
 
 ![Informfully](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/logo_banner.png)
 
-Welcome to [Informfully](https://informfully.ch/)!
-It is an open-source research platform for content distribution and running user experiments.
+Welcome to Informfully ([GitHub](https://github.com/orgs/Informfully) & [Website](https://informfully.ch/))!
+Informfully is an open-source research platform for content distribution and running user experiments.
 Our platform is a visualization layer that you can add on top of your existing recommender systems.
 
 Informfully is a domain-agnostic and platform-independent solution to fit your specific needs.
