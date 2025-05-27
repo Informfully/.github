@@ -34,15 +34,15 @@ Find out more in the [Online Documentation](https://informfully.readthedocs.io/e
 Explore everything Informfully has to offer:
 
 * **[Platform Repository](https://github.com/Informfully/Platform)**: Get full access to the Informfully platform (app and web).
-* **[Scrapers Repository](https://github.com/Informfully/Scrapers)**: User our content scrapers to get your hands on news articles.
+* **[Scrapers Repository](https://github.com/Informfully/Scrapers)**: Use our content scrapers to get your hands on news articles.
 * **[Datasets Repository](https://github.com/Informfully/Datasets)**: See a sample export of all the information Informfully gives you.
 * **[Experiments Repository](https://github.com/Informfully/Experiments)**: Shared recommendation workflows to reproduce all our findings. 
 * **[Recommenders Repository](https://github.com/Informfully/Recommenders)**: Showcasing all our diversity-optimized recommender algorithms.
 * **[Documentation Repository](https://github.com/Informfully/Documentation)**: Overview and guides for deploying your own instance of Informfully.
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
-If you want to use the Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
-Free demo accounts available upon reqeust: info@informfully.ch
+If you want to use Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
+Free demo accounts available upon request: info@informfully.ch
 
 ## News Recommender Research
 
@@ -61,7 +61,7 @@ Have a look at the research inspired and powered by Informfully:
 
 ## Contributing
 
-Your are welcome to contribute to the Informfully ecosystem and become a part of our community. Feel free to:
+You are welcome to contribute to the Informfully ecosystem and become a part of our community. Feel free to:
   - fork any of the [Informfully repositories](https://github.com/Informfully/Documentation),
   - suggest new features in [Future Release](https://github.com/orgs/Informfully/projects/1), and
   - make changes and create pull requests.
