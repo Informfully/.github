@@ -10,9 +10,9 @@ Informfully is a domain-agnostic and platform-independent solution to fit your s
 It allows you to push algorithmically curated text, image, audio, and video content to users and automatically generates a detailed log of their consumption history.
 
 The platform was designed to accommodate different experiment types through versatility, ease of use, and scalability.
-It features three core components: 
+It features three core components:
 * a front end for displaying and interacting with recommended items, 
-* a back end for researchers to create and maintain user experiments, and 
+* a back end for researchers to create and maintain user experiments, and
 * a simple JSON-based exchange format for ranked item recommendations to interface with third-party services.
 
 **Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
@@ -36,13 +36,26 @@ Explore everything Informfully has to offer:
 * **[Platform Repository](https://github.com/Informfully/Platform)**: Get full access to the Informfully platform (app and web).
 * **[Scrapers Repository](https://github.com/Informfully/Scrapers)**: Use our content scrapers to get your hands on news articles.
 * **[Datasets Repository](https://github.com/Informfully/Datasets)**: See a sample export of all the information Informfully gives you.
-* **[Experiments Repository](https://github.com/Informfully/Experiments)**: Shared recommendation workflows to reproduce all our findings. 
+* **[Experiments Repository](https://github.com/Informfully/Experiments)**: Shared recommendation workflows to reproduce all our findings.
 * **[Recommenders Repository](https://github.com/Informfully/Recommenders)**: Showcasing all our diversity-optimized recommender algorithms.
 * **[Documentation Repository](https://github.com/Informfully/Documentation)**: Overview and guides for deploying your own instance of Informfully.
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
 If you want to use Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
 Free demo accounts available upon request: info@informfully.ch
+
+<!--
+
+## Modular Research Platform
+
+Informfully features a fully modular design.
+The app/web interfaces, the content scrapers, and the recommender system can be used together or in a stand-alone fashion (see application diagram below for an overview).
+There is no dependency across these components, as they communicate exclusively via shared document collections.
+Please see the online documentation for how to get started with the [app/web interfaces](https://informfully.readthedocs.io/en/latest/install.html), the [content scrapers](https://informfully.readthedocs.io/en/latest/scrapers.html), and the [recommender system](https://informfully.readthedocs.io/en/latest/recommenders.html).
+
+![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/refs/heads/main/docs/source/uml/application_architecture_v4.2.png)
+
+-->
 
 ## News Recommender Research
 
@@ -61,10 +74,11 @@ Have a look at the research inspired and powered by Informfully:
 
 ## Contributing
 
-You are welcome to contribute to the Informfully ecosystem and become a part of our community. Feel free to:
-  - fork any of the [Informfully repositories](https://github.com/Informfully/Documentation),
-  - suggest new features in [Future Release](https://github.com/orgs/Informfully/projects/1), and
-  - make changes and create pull requests.
+You are welcome to contribute to the Informfully ecosystem and become a part of our community.
+Feel free to:
+* Fork any of the [Informfully repositories](https://github.com/Informfully/Documentation).
+* Suggest new features in [Future Release](https://github.com/orgs/Informfully/projects/1).
+* Make changes and create pull requests.
 
 Please post your feature requests and bug reports in our [GitHub issues](https://github.com/Informfully/Documentation/issues) section.
 
