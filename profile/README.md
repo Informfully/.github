@@ -42,14 +42,14 @@ Explore everything Informfully has to offer:
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
 If you want to use Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
-Free demo accounts available upon request: info@informfully.ch
+Free demo accounts are available upon request: info@informfully.ch
 
 <!--
 
 ## Modular Research Platform
 
 Informfully features a fully modular design.
-The app/web interfaces, the content scrapers, and the recommender system can be used together or in a stand-alone fashion (see application diagram below for an overview).
+The app/web interfaces, the content scrapers, and the recommender system can be used together or in a stand-alone fashion (see the application diagram below for an overview).
 There is no dependency across these components, as they communicate exclusively via shared document collections.
 Please see the online documentation for how to get started with the [app/web interfaces](https://informfully.readthedocs.io/en/latest/install.html), the [content scrapers](https://informfully.readthedocs.io/en/latest/scrapers.html), and the [recommender system](https://informfully.readthedocs.io/en/latest/recommenders.html).
 
@@ -60,7 +60,8 @@ Please see the online documentation for how to get started with the [app/web int
 ## News Recommender Research
 
 Have a look at the research inspired and powered by Informfully:
-
+<!-- * [Informfully Recommenders – A Reproducibility Framework for Diversity-aware Intra-session Recommendations](TBD) -->
+<!-- * [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](TBD) -->
 * [Informfully – Research Platform for Reproducible User Studies](https://dl.acm.org/doi/10.1145/3640457.3688066)
 * [IDEA – Informfully Dataset with Enhanced Attributes](https://ceur-ws.org/Vol-3898/paper1.pdf)
 * [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://dl.acm.org/doi/abs/10.1145/3687151.3687155)
