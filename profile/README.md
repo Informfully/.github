@@ -61,8 +61,8 @@ Please see the online documentation for how to get started with the [app/web int
 ## News Recommender Research
 
 Have a look at the research inspired and powered by Informfully:
-<!-- * [Informfully Recommenders – A Reproducibility Framework for Diversity-aware Intra-session Recommendations](TBD) -->
-<!-- * [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](TBD) -->
+* [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://arxiv.org/abs/2508.13019)
+* [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://arxiv.org/abs/2508.13035)
 * [Informfully – Research Platform for Reproducible User Studies](https://dl.acm.org/doi/10.1145/3640457.3688066)
 * [IDEA – Informfully Dataset with Enhanced Attributes](https://ceur-ws.org/Vol-3898/paper1.pdf)
 * [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://dl.acm.org/doi/abs/10.1145/3687151.3687155)
