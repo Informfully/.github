@@ -43,7 +43,7 @@ Explore everything Informfully has to offer:
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
 If you want to use Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
-Free demo accounts are available upon request: info@informfully.ch
+Free demo accounts are available upon request: <info@informfully.ch>
 
 <!--
 
@@ -60,19 +60,28 @@ Please see the online documentation for how to get started with the [app/web int
 
 ## News Recommender Research
 
-Have a look at the research inspired and powered by Informfully:
-* [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://arxiv.org/abs/2508.13019)
-* [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://arxiv.org/abs/2508.13035)
-* [Informfully – Research Platform for Reproducible User Studies](https://dl.acm.org/doi/10.1145/3640457.3688066)
+Papers with User Studies and Experiments powered by Informfully:
+
+* [Nudges for News Recommenders: Prominent Article Positioning Increases Selection, Engagement, and Recall of Environmental News, but Reducing Complexity Does Not](https://doi.org/10.1093/joc/jqaf019)
 * [IDEA – Informfully Dataset with Enhanced Attributes](https://ceur-ws.org/Vol-3898/paper1.pdf)
-* [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://dl.acm.org/doi/abs/10.1145/3687151.3687155)
+* [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://doi.org/10.1145/3687151.3687155)
+* [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
+* [Deliberative Diversity for News Recommendations: Operationalization and Experimental User Study](https://doi.org/10.1145/3604915.3608834)
+* [Benefits of Diverse News Recommendations for Democracy: A User Study](https://doi.org/10.1080/21670811.2021.2021804)
+
+Papers on the Informfully Research Infrastructure:
+
+* [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://doi.org/10.1145/3705328.3748148)
+* [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://doi.org/10.1145/3705328.3748016)
+* [Informfully – Research Platform for Reproducible User Studies](https://doi.org/10.1145/3640457.3688066)
+* [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
+
+Our General News Recommender Research:
+
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
 * [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
-* [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
-* [Deliberative Diversity for News Recommendations: Operationalization and Experimental User Study](https://dl.acm.org/doi/abs/10.1145/3604915.3608834)
-* [Benefits of Diverse News Recommendations for Democracy: A User Study](https://www.tandfonline.com/doi/full/10.1080/21670811.2021.2021804)
 * [Spotlight on Artificial Intelligence and Freedom of Expression: A Policy Manual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060166)
-* [Diversity in News Recommendation](https://drops.dagstuhl.de/entities/document/10.4230/DagMan.9.1.43)
+* [Diversity in News Recommendation](https://doi.org/10.4230/DagMan.9.1.43)
 
 ## Contributing
 
@@ -85,4 +94,8 @@ Feel free to:
 
 Please post your feature requests and bug reports in our [GitHub issues](https://github.com/Informfully/Documentation/issues) section.
 
+<!--
+
 ![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/app_screens.png)
+
+-->
