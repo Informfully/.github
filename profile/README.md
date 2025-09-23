@@ -12,7 +12,7 @@ It allows you to push algorithmically curated text, image, audio, and video cont
 The platform was designed to accommodate different experiment types through versatility, ease of use, and scalability.
 It features three core components:
 
-* a front end for displaying and interacting with recommended items, 
+* a front end for displaying and interacting with recommended items,
 * a back end for researchers to create and maintain user experiments, and
 * a simple JSON-based exchange format for ranked item recommendations to interface with third-party services.
 
@@ -94,8 +94,4 @@ Feel free to:
 
 Please post your feature requests and bug reports in our [GitHub issues](https://github.com/Informfully/Documentation/issues) section.
 
-<!--
-
 ![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/app_screens.png)
-
--->
