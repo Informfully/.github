@@ -3,36 +3,25 @@
 ![Informfully](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/logo_banner.png)
 
 Welcome to Informfully ([GitHub](https://github.com/orgs/Informfully) & [Website](https://informfully.ch/))!
-Informfully is an open-source research platform for content distribution and running user experiments.
-Our platform is a visualization layer that you can add on top of your existing recommender systems.
-
-Informfully is a domain-agnostic and platform-independent solution to fit your specific needs.
+Informfully is an open-source research tool for content distribution and running user experiments.
 It allows you to push algorithmically curated text, image, audio, and video content to users and automatically generates a detailed log of their consumption history.
-
-The platform was designed to accommodate different experiment types through versatility, ease of use, and scalability.
-It features three core components:
-
-* a front end for displaying and interacting with recommended items,
-* a back end for researchers to create and maintain user experiments, and
-* a simple JSON-based exchange format for ranked item recommendations to interface with third-party services.
-
-**Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
-
-## Informfully Research Suite
-
-The benefit of Informfully compared to other frameworks is that it includes all components necessary along the entire recommender pipeline.
-It offers [datasets](https://github.com/Informfully/Datasets) for training and development purposes.
+The benefit of Informfully, compared to other frameworks, is that it offers a complete end-to-end solution with all necessary components along the entire recommender pipeline.
+Our repository offers [Datasets](https://github.com/Informfully/Datasets) for training and development purposes.
 [Scrapers](https://github.com/Informfully/Scrapers) to collect items.
 [Recommenders](https://github.com/Informfully/Recommenders) for content curations.
 And the [Informfully platform](https://github.com/Informfully/Platform) for conducting user experiments.
 All components are designed to seamlessly work together.
-Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance by deploying the  [Platform Repository](https://github.com/Informfully/Platform).
+Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance.
+
+**Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
 ![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/informfully_assets/informfully_app_screens.png)
 
 ## Code Repository Overview
 
-Explore everything Informfully has to offer:
+Informfully is a domain-agnostic and platform-independent solution to fit your specific needs.
+It is designed to accommodate different experiment types through versatility, ease of use, and scalability.
+The core components are:
 
 * **[Platform Repository](https://github.com/Informfully/Platform)**: Get full access to the Informfully platform (app and web).
 * **[Scrapers Repository](https://github.com/Informfully/Scrapers)**: Use our content scrapers to get your hands on news articles.
