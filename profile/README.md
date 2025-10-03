@@ -6,18 +6,12 @@ Welcome to Informfully ([GitHub](https://github.com/orgs/Informfully) & [Website
 Informfully is an open-source research tool for content distribution and running user experiments.
 It allows you to push algorithmically curated text, image, audio, and video content to users and automatically generates a detailed log of their consumption history.
 The benefit of Informfully, compared to other frameworks, is that it offers a complete end-to-end solution with all necessary components along the entire recommender pipeline.
-Our repository offers [Datasets](https://github.com/Informfully/Datasets) for training and development purposes.
-[Scrapers](https://github.com/Informfully/Scrapers) to collect items.
-[Recommenders](https://github.com/Informfully/Recommenders) for content curations.
-And the [Informfully platform](https://github.com/Informfully/Platform) for conducting user experiments.
-All components are designed to seamlessly work together.
-Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance.
 
 **Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
-![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/informfully_assets/informfully_app_screens.png)
-
 ## Code Repository Overview
+
+![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/informfully_assets/informfully_app_screens.png)
 
 Informfully is a domain-agnostic and platform-independent solution to fit your specific needs.
 It is designed to accommodate different experiment types through versatility, ease of use, and scalability.
@@ -44,6 +38,13 @@ There is no dependency across these components, as they communicate exclusively 
 Please see the online documentation for how to get started with the [app/web interfaces](https://informfully.readthedocs.io/en/latest/install.html), the [content scrapers](https://informfully.readthedocs.io/en/latest/scrapers.html), and the [recommender system](https://informfully.readthedocs.io/en/latest/recommenders.html).
 
 ![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/refs/heads/main/docs/source/uml/application_architecture_v4.2.png)
+
+Our repository offers [Datasets](https://github.com/Informfully/Datasets) for training and development purposes.
+[Scrapers](https://github.com/Informfully/Scrapers) to collect items.
+[Recommenders](https://github.com/Informfully/Recommenders) for content curations.
+And the [Informfully platform](https://github.com/Informfully/Platform) for conducting user experiments.
+All components are designed to seamlessly work together.
+Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance.
 
 -->
 
@@ -77,9 +78,9 @@ Our General News Recommender Research:
 You are welcome to contribute to the Informfully ecosystem and become a part of our community.
 Feel free to:
 
-- Fork any of the [Informfully repositories](https://github.com/Informfully/Documentation).
-- Suggest new features in [Future Release](https://github.com/orgs/Informfully/projects/1).
-- Make changes and create pull requests.
+* Fork any of the [Informfully repositories](https://github.com/Informfully/Documentation).
+* Suggest new features in [Future Release](https://github.com/orgs/Informfully/projects/1).
+* Make changes and create pull requests.
 
 Please post your feature requests and bug reports in our [GitHub issues](https://github.com/Informfully/Documentation/issues) section.
 
