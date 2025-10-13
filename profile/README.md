@@ -28,26 +28,6 @@ The core components are:
 If you want to use Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
 Free demo accounts are available upon request: <info@informfully.ch>
 
-<!--
-
-## Modular Research Platform
-
-Informfully features a fully modular design.
-The app/web interfaces, the content scrapers, and the recommender system can be used together or in a stand-alone fashion (see the application diagram below for an overview).
-There is no dependency across these components, as they communicate exclusively via shared document collections.
-Please see the online documentation for how to get started with the [app/web interfaces](https://informfully.readthedocs.io/en/latest/install.html), the [content scrapers](https://informfully.readthedocs.io/en/latest/scrapers.html), and the [recommender system](https://informfully.readthedocs.io/en/latest/recommenders.html).
-
-![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/refs/heads/main/docs/source/uml/application_architecture_v4.2.png)
-
-Our repository offers [Datasets](https://github.com/Informfully/Datasets) for training and development purposes.
-[Scrapers](https://github.com/Informfully/Scrapers) to collect items.
-[Recommenders](https://github.com/Informfully/Recommenders) for content curations.
-And the [Informfully platform](https://github.com/Informfully/Platform) for conducting user experiments.
-All components are designed to seamlessly work together.
-Find out more in the [Online Documentation](https://informfully.readthedocs.io/en/latest/app.html) and create your own instance.
-
--->
-
 ## News Recommender Research
 
 Papers with User Studies and Experiments powered by Informfully:
