@@ -25,7 +25,7 @@ The core components are:
 * **[Documentation Repository](https://github.com/Informfully/Documentation)**: Overview and guides for deploying your own instance of Informfully.
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
-If you want to use Informfully as a cloud service, hosted at the University of Zurich, please reach out to us.
+If you would like to use Informfully as a cloud service hosted at the University of Zurich, please contact us.
 Free demo accounts are available upon request: <info@informfully.ch>
 
 ## News Recommender Research
