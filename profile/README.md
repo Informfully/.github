@@ -35,7 +35,6 @@ Papers with User Studies and Experiments powered by Informfully:
 * [Nudges for News Recommenders: Prominent Article Positioning Increases Selection, Engagement, and Recall of Environmental News, but Reducing Complexity Does Not](https://doi.org/10.1093/joc/jqaf019)
 * [IDEA – Informfully Dataset with Enhanced Attributes](https://ceur-ws.org/Vol-3898/paper1.pdf)
 * [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://doi.org/10.1145/3687151.3687155)
-* [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
 * [Deliberative Diversity for News Recommendations: Operationalization and Experimental User Study](https://doi.org/10.1145/3604915.3608834)
 * [Benefits of Diverse News Recommendations for Democracy: A User Study](https://doi.org/10.1080/21670811.2021.2021804)
 
@@ -44,12 +43,16 @@ Papers on the Informfully Research Infrastructure:
 * [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://doi.org/10.1145/3705328.3748148)
 * [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://doi.org/10.1145/3705328.3748016)
 * [Informfully – Research Platform for Reproducible User Studies](https://doi.org/10.1145/3640457.3688066)
-* [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
 
-Our General News Recommender Research:
+Visual Generative AI for News:
 
+* [NewsImages in MediaEval 2025 – Comparing Image Retrieval and Generation for News Articles](https://github.com/Informfully/Challenges/blob/main/newsimages25/newsimages_task_overview_paper.pdf)
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
 * [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
+
+Position Papers on Normativity and Diversity in News:
+
+* [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
 * [Spotlight on Artificial Intelligence and Freedom of Expression: A Policy Manual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060166)
 * [Diversity in News Recommendation](https://doi.org/10.4230/DagMan.9.1.43)
 
