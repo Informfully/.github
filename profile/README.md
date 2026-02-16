@@ -3,7 +3,7 @@
 ![Informfully](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/logo_banner.png)
 
 Welcome to Informfully ([GitHub](https://github.com/orgs/Informfully) & [Website](https://informfully.ch/))!
-Informfully is an open-source research tool for content distribution and running user experiments.
+Informfully is an open source research tool for content distribution and running user experiments.
 It allows you to push algorithmically curated text, image, audio, and video content to users and automatically generates a detailed log of their consumption history.
 The benefit of Informfully, compared to other frameworks, is that it offers a complete end-to-end solution with all necessary components along the entire recommender pipeline.
 
