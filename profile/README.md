@@ -11,7 +11,7 @@ The benefit of Informfully, compared to other frameworks, is that it offers a co
 
 ## Code Repository Overview
 
-![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/informfully_assets/informfully_app_screens.png)
+![Screenshots](https://raw.githubusercontent.com/Informfully/Informfully.github.io/refs/heads/main/docs/img/app_screens.png)
 
 Informfully is a domain-agnostic and platform-independent solution to fit your specific needs.
 It is designed to accommodate different experiment types through versatility, ease of use, and scalability.
@@ -22,7 +22,6 @@ The core components are:
 * **[Datasets Repository](https://github.com/Informfully/Datasets)**: See a sample export of all the information Informfully gives you.
 * **[Experiments Repository](https://github.com/Informfully/Experiments)**: Shared recommendation workflows to reproduce all our findings.
 * **[Recommenders Repository](https://github.com/Informfully/Recommenders)**: Showcasing all our diversity-optimized recommender algorithms.
-* **[Documentation Repository](https://github.com/Informfully/Documentation)**: Overview and guides for deploying your own instance of Informfully.
 
 > Note: Our GitHub repositories allow you to run your own instance of Informfully.
 If you would like to use Informfully as a cloud service hosted at the University of Zurich, please contact us.
@@ -67,4 +66,4 @@ Feel free to:
 
 Please post your feature requests and bug reports in our [GitHub issues](https://github.com/Informfully/Documentation/issues) section.
 
-![Screenshots](https://raw.githubusercontent.com/Informfully/Documentation/main/docs/source/img/app_screens.png)
+![Screenshots](https://raw.githubusercontent.com/Informfully/Informfully.github.io/refs/heads/main/docs/img/footer_screens.png)
