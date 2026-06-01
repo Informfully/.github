@@ -7,7 +7,7 @@ Informfully is an open source research tool for content distribution and running
 It allows you to push algorithmically curated text, image, audio, and video content to users and automatically generates a detailed log of their consumption history.
 The benefit of Informfully, compared to other frameworks, is that it offers a complete end-to-end solution with all necessary components along the entire recommender pipeline.
 
-**Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](https://informfully.readthedocs.io) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
+**Links and Resources:** [Repositories](https://github.com/orgs/Informfully/repositories) | [Website](https://informfully.ch) | [X](https://x.com/informfully) | [Documentation](http://informfully.ch/docs) | [DDIS@UZH](https://www.ifi.uzh.ch/en/ddis.html) | [Google Play](https://play.google.com/store/apps/details?id=ch.uzh.ifi.news) | [App Store](https://apps.apple.com/us/app/informfully/id1460234202)
 
 ## Code Repository Overview
 
@@ -60,10 +60,8 @@ Position Papers on Normativity and Diversity in News:
 You are welcome to contribute to the Informfully ecosystem and become a part of our community.
 Feel free to:
 
-* Fork any of the [Informfully repositories](https://github.com/Informfully/Documentation).
+* Fork any of the [Informfully repositories](https://github.com/orgs/Informfully/repositories).
 * Suggest new features in [Future Release](https://github.com/orgs/Informfully/projects/1).
-* Make changes and create pull requests.
-
-Please post your feature requests and bug reports in our [GitHub issues](https://github.com/Informfully/Documentation/issues) section.
+* Join the [Discussion Boards](https://github.com/orgs/Informfully/discussions).
 
 ![Screenshots](https://raw.githubusercontent.com/Informfully/Informfully.github.io/refs/heads/main/docs/img/footer_screens.png)
