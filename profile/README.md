@@ -29,6 +29,13 @@ Free demo accounts are available upon request: <info@informfully.ch>
 
 ## News Recommender Research
 
+Papers on the Informfully Research Infrastructure:
+
+* [Informfully Research Platform – An Open Source Project for Conducting Empirical Research with Recommender Systems](https://dl.acm.org/doi/10.1145/3820883)
+* [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://doi.org/10.1145/3705328.3748148)
+* [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://doi.org/10.1145/3705328.3748016)
+* [Informfully – Research Platform for Reproducible User Studies](https://doi.org/10.1145/3640457.3688066)
+
 User Studies and Experiments powered by Informfully:
 
 * [Nudges for News Recommenders: Prominent Article Positioning Increases Selection, Engagement, and Recall of Environmental News, but Reducing Complexity Does Not](https://doi.org/10.1093/joc/jqaf019)
@@ -36,12 +43,6 @@ User Studies and Experiments powered by Informfully:
 * [Recommendations for the Recommenders: Reflections on Prioritizing Diversity in the RecSys Challenge](https://doi.org/10.1145/3687151.3687155)
 * [Deliberative Diversity for News Recommendations: Operationalization and Experimental User Study](https://doi.org/10.1145/3604915.3608834)
 * [Benefits of Diverse News Recommendations for Democracy: A User Study](https://doi.org/10.1080/21670811.2021.2021804)
-
-Papers on the Informfully Research Infrastructure:
-
-* [Informfully Recommenders – Reproducibility Framework for Diversity-aware Intra-session Recommendations](https://doi.org/10.1145/3705328.3748148)
-* [D-RDW: Diversity-Driven Random Walks for News Recommender Systems](https://doi.org/10.1145/3705328.3748016)
-* [Informfully – Research Platform for Reproducible User Studies](https://doi.org/10.1145/3640457.3688066)
 
 Work on Visual Generative AI for News:
 
