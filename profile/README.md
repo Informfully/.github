@@ -44,17 +44,17 @@ User Studies and Experiments powered by Informfully:
 * [Deliberative Diversity for News Recommendations: Operationalization and Experimental User Study](https://doi.org/10.1145/3604915.3608834)
 * [Benefits of Diverse News Recommendations for Democracy: A User Study](https://doi.org/10.1080/21670811.2021.2021804)
 
-Work on Visual Generative AI for News:
-
-* [NewsImages in MediaEval 2025 – Comparing Image Retrieval and Generation for News Articles](https://github.com/Informfully/Challenges/blob/main/newsimages25/newsimages_task_overview_paper.pdf)
-* [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
-* [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
-
 Position Papers on Normativity and Diversity in News:
 
 * [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
-* [Spotlight on Artificial Intelligence and Freedom of Expression: A Policy Manual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4060166)
+* [Spotlight on Artificial Intelligence and Freedom of Expression: A Policy Manual](https://www.osce.org/representative-on-freedom-of-media/510332)
 * [Diversity in News Recommendation](https://doi.org/10.4230/DagMan.9.1.43)
+
+Work on Visual Generative AI for News:
+
+* [NewsImages in MediaEval 2025 – Comparing Image Retrieval and Generation for News Articles](https://2025.multimediaeval.com/paper1.pdf})
+* [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
+* [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
 
 ## Contributing
 
