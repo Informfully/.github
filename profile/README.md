@@ -52,6 +52,8 @@ Position Papers on Normativity and Diversity in News:
 
 Work on Visual Generative AI for News:
 
+* [Assessing the Viability of Image-to-Image Models for Restoring Historical Photographs of News Articles](https://2026.multimediaeval.com/paper8.pdf)
+* [NewsImages in MediaEval 2026 – Automated Image Recommendations with Retrieval and Generation Techniques for News Articles](https://2026.multimediaeval.com/paper1.pdf)
 * [NewsImages in MediaEval 2025 – Comparing Image Retrieval and Generation for News Articles](https://2025.multimediaeval.com/paper1.pdf})
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
 * [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
