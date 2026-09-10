@@ -47,7 +47,8 @@ User Studies and Experiments powered by Informfully:
 Position Papers on Normativity and Diversity in News:
 
 * [Classification of Normative Recommender Systems](https://ceur-ws.org/Vol-3639/short3.pdf)
-* [Spotlight on Artificial Intelligence and Freedom of Expression: A Policy Manual](https://www.osce.org/representative-on-freedom-of-media/510332)
+* [Spotlight on Artificial Intelligence and Freedom of Expression](https://www.osce.org/representative-on-freedom-of-media/510332)
+* [AI in Content Curation and Media Pluralism](https://www.zora.uzh.ch/id/eprint/213723)
 * [Diversity in News Recommendation](https://doi.org/10.4230/DagMan.9.1.43)
 
 Work on Visual Generative AI for News:
@@ -56,7 +57,7 @@ Work on Visual Generative AI for News:
 * [NewsImages in MediaEval 2026 – Automated Image Recommendations with Retrieval and Generation Techniques for News Articles](https://2026.multimediaeval.com/paper1.pdf)
 * [NewsImages in MediaEval 2025 – Comparing Image Retrieval and Generation for News Articles](https://2025.multimediaeval.com/paper1.pdf})
 * [An Empirical Exploration of Perceived Similarity between News Article Texts and Images](https://ceur-ws.org/Vol-3658/paper8.pdf)
-* [Prompt-based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
+* [Prompt-Based Alignment of Headlines and Images Using OpenCLIP](https://ceur-ws.org/Vol-3658/paper7.pdf)
 
 ## Contributing
 
